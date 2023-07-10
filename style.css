@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    text-transform: uppercase ;
+    background: linear-gradient(to right, rgb(231, 255, 137), rgb(216, 119, 119));
+}
+
+h1 {
+    letter-spacing: .5em;
+}
